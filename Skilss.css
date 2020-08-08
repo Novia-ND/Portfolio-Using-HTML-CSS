@@ -1,0 +1,52 @@
+			table {
+  border-collapse: collapse;
+  width: 800px;
+  opacity: 0.8;
+}
+body{
+background-size: 100%;
+background-image:no-repeat;
+  background-image: url(https://dpuk71x9wlmkf.cloudfront.net/assets/2018/06/27161814/resume_skillsv3_Social-.jpg)
+}
+th, td {
+  text-align: left;
+  padding: 10px;
+  font-weight: bolder;
+
+}
+.border{
+  border-color: #621055;
+}
+
+.t1{
+	background-color:#fccbcb;
+}
+
+th {
+  background-color:  #ff99e6;
+  color: white;
+  padding: 30px;
+}
+.color{
+	color: red;
+	background-color: black;
+	width: 800px;
+}
+.glow {
+  font-size: 50px;
+  color: "yellow";
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
