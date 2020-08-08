@@ -1,0 +1,33 @@
+		table {
+  border-collapse: collapse;
+  width: 800px;
+}
+
+th, td {
+  text-align: left;
+  padding: 4px;
+  font-weight: bolder;
+
+}
+
+tr{
+	background-color: white;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+  padding: 1px;
+}
+body{
+	background-image: url(https://i.pinimg.com/originals/b1/2e/30/b12e30d1d4802f502ab31412c65a9233.jpg);
+}
+.color{
+	color: red;
+	background-color: white;
+	width: 800px;
+  opacity: 0.8
+}
+.table{
+  opacity: 0.8;
+}
